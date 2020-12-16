@@ -2,7 +2,7 @@
 
 class UserService
 {
-    private UserRepository $repository = null;
+    private ?UserRepository $repository = null;
 
     public function loginWithUserAndPasswordAndRedirect(string $user, string $password): void
     {
