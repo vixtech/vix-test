@@ -6,7 +6,7 @@ function UserService(userRepository, appRouter) {
     const loginWithUserAndPasswordAndRedirect = function (user, password) {
         if (_self.repository.isLoginValid(user, password)) {
             user = _self.repository.get(user);
-            _self.appRouter.generateVectorForUser(user);
+            _self.generateVectorForUser(user);
             _self.appRouter.redirect('home');
         } else {
             _self.appRouter.addFlashError('Invalid User/Password');
