@@ -2,7 +2,7 @@
     "data": [
         {
             "title": "Street Fighter",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/streetfighter.jpg",
             "worlds": [
                 {
                     "world": 1,
@@ -558,7 +558,7 @@
         },
         {
             "title": "Sonic",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/sonic.jpg",
             "worlds": [
                 {
                     "world": 1,
@@ -1114,7 +1114,7 @@
         },
         {
             "title": "Donkey Kong",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/DonkeyKong.webp",
             "worlds": [
                 {
                     "world": 1,
@@ -1670,7 +1670,7 @@
         },
         {
             "title": "Mario Kart",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/mariokart.jpg",
             "worlds": [
                 {
                     "world": 1,
@@ -2226,7 +2226,7 @@
         },
         {
             "title": "GTA",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/gta.jpg",
             "worlds": [
                 {
                     "world": 1,

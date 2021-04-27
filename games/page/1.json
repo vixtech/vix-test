@@ -2,7 +2,7 @@
     "data": [
         {
             "title": "Mario World",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/super-mario.webp",
             "worlds": [
                 {
                     "world": 1,
@@ -558,7 +558,7 @@
         },
         {
             "title": "Bomber man",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/bomberman.jpg",
             "worlds": [
                 {
                     "world": 1,
@@ -1114,7 +1114,7 @@
         },
         {
             "title": "Crash",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/crash.jpg",
             "worlds": [
                 {
                     "world": 1,
@@ -1670,7 +1670,7 @@
         },
         {
             "title": "Mortal Combat",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/mortalcombat.jpg",
             "worlds": [
                 {
                     "world": 1,
@@ -2226,7 +2226,7 @@
         },
         {
             "title": "Street Fighter",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/streetfighter.jpg",
             "worlds": [
                 {
                     "world": 1,

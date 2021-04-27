@@ -2,7 +2,7 @@
     "data": [
         {
             "title": "GTA",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/vixtech/vix-test/frontend-api/images/gta.jpg",
             "worlds": [
                 {
                     "world": 1,
